@@ -1,4 +1,4 @@
-package chrvk.hw2;
+package chrvk.JavaElementary.hw2;
 
 import java.util.Arrays;
 
