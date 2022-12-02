@@ -1,8 +1,7 @@
 # Homework 2
 
-1) Реализовать класс IntArrayList и интерфейс IntList по аналогии с List<Integer> (ArrayList)
+Task 1: Реализовать класс IntArrayList и интерфейс IntList по аналогии с List<Integer> (ArrayList)
 Перечень методов:
-
 
   boolean add(int element);
 
@@ -26,4 +25,4 @@
 
   int[] toArray();
   
-2) Про помощи своего класса IntList заполнить случайными числами и отсортировать.
+Task 2: Про помощи своего класса IntList заполнить случайными числами и отсортировать.
