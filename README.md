@@ -25,3 +25,5 @@
   IntList subList(int fromIndex, int toIndex);
 
   int[] toArray();
+  
+2) Про помощи своего класса IntList заполнить случайными числами и отсортировать.
