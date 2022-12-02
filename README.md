@@ -3,26 +3,26 @@
 Task 1: Реализовать класс IntArrayList и интерфейс IntList по аналогии с List<Integer> (ArrayList)
 Перечень методов:
 
-  boolean add(int element);
+ - boolean add(int element);
 
-  boolean add(int index, int element);
+ - boolean add(int index, int element);
 
-  void clear();
+ - void clear();
 
-  int get(int index);
+ - int get(int index);
 
-  boolean isEmpty();
+ - boolean isEmpty();
 
-  boolean remove(int index);
+ - boolean remove(int index);
 
-  boolean removeByValue(int value);
+ - boolean removeByValue(int value);
 
-  boolean set(int index, int element);
+ - boolean set(int index, int element);
 
-  int size();
+ - int size();
 
-  IntList subList(int fromIndex, int toIndex);
+ - IntList subList(int fromIndex, int toIndex);
 
-  int[] toArray();
+ - int[] toArray();
   
 Task 2: Про помощи своего класса IntList заполнить случайными числами и отсортировать.
